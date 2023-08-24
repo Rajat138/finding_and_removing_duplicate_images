@@ -36,4 +36,4 @@ python duplicateimages.py --link "drive-link" --remove False/True
 ```
 
 ## Huggingface demo
-visit https://tttarun-jarvis-image-duplicate-handle.hf.space/ for interactive demo
+
