@@ -37,3 +37,7 @@ python duplicateimages.py --link "drive-link" --remove False/True
 
 ## Huggingface demo
 
+For no code demo use got to below url:
+https://huggingface.co/spaces/rajat-raturi/finding_and_removing_duplicate_images
+ID: rajat
+password: rajat007
