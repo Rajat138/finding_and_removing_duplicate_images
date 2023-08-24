@@ -1,0 +1,5 @@
+gradio
+openpyxl
+gdown
+duplicate_images
+huggingface_hub
